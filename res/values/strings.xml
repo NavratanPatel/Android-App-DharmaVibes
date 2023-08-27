@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DharmaVibes</string>
+    <string name="hii">hii</string>
+    <string name="textview">
+        <b>The Mahabharata\n</b>
+        The Mahabharata Story begins when the blindness of Dhritarashtra, the elder of two princes, causes him to be passed over in favour of his brother Pandu as king on their father\’s death. A curse prevents Pandu from fathering children, however, and his wife Kunti asks the gods to father children in Pandu\’s name.
+        \n\nAs a result, the god Dharma fathers Yudhishtira, the Wind fathers Bhima, Indra fathers Arjuna, and the Ashvins (twins) father Nakula and Sahadeva (also twins; born to Pandu\’s second wife, Madri). The enmity and jealousy that develops between the cousins forces the Pandavas to leave the kingdom when their father dies.
+        \n\nDuring their exile the five jointly marry Draupadi (who is born out of a sacrificial fire and whom Arjuna wins by shooting an arrow through a row of targets) and meet their cousin <b>Krishna</b>, who remains their friend and companion thereafter. Although the Pandavas return to the kingdom, they are again exiled to the forest, this time for 12 years, when Yudhishthira loses everything in a game of dice with Duryodhana, the eldest of the Kauravas.
+
+        <b>\n\nThe Ramayana\n</b>
+        Dasharatha is the King of Ayodhya and has three wives and four sons, Rama, Lakshmana, Bharata and Shatrughana. Rama is the ideal and perfect son, and grows up with his brothers. When he comes of age, he marries Sita, the princess of a nearby kingdom. However, Bharata\'s mother is Kaikeyi, who resents Rama being the crown prince.
+        \n\nShe calls up a debt that Dasharatha owes her and asks for Rama to be exiled for fourteen years and her son Bharata be made crown prince instead.The devastated Dasharatha has no choice and Rama prepares to leave for exile. Sita and Lakshmana will not leave his side however and follow him into the forest. While in the forest,
+        \n\nSurphanaka, a female rakshasi (demoness) becomes enamored of Rama and is wounded by Lakshmana while trying to kill Sita. She flees to her brother Khara and asks him to avenge her. However, Khara and his army are defeated by Rama and Lakshmana, and only one member of their entire army survives.
+        \n\nThis lone soldier flees to the island kingdom of Lanka and begs Surphanaka\'s brother, the mighty king Ravana to avenge them. Ravana has heard of Sita\'s beauty and he decides to abduct her. Using trickery and magic, he manages to lure Rama and Lakshmana away from Sita and kidnaps her, taking her away to Lanka.
+    </string>
+    <string name="subscribe">Subscribe</string>
+    <string name="next">Next</string>
+    <string name="todo">TODO</string>
+</resources>
