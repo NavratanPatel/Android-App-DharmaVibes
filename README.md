@@ -1,7 +1,9 @@
 # Android Multimedia App - DharmaVibes
 <table>
 <tr>
-<img height="450" width="230" src="https://github.com/NavratanPatel/DharmaVibes/assets/90257430/d2ee90a4-f449-4bcb-970a-3f641b902c1e" alt="screen1"> <img height="450" width="230" src="https://github.com/NavratanPatel/DharmaVibes/assets/90257430/f83237e1-af62-4ea8-b414-ae1d3f88dc51" alt="screen2"> <img height="450" width="230" src="https://github.com/NavratanPatel/DharmaVibes/assets/90257430/dfe4e4f9-8f0e-42e3-b4dc-46b88106a0e5" alt="screen3"> <img height="450" width="230" src="https://github.com/NavratanPatel/DharmaVibes/assets/90257430/e4d55337-4781-4f84-9cb1-4a0e83ec359b" alt="screen4">
+<img height="450" width="230" src="https://github.com/NavratanPatel/DharmaVibes/assets/90257430/d2ee90a4-f449-4bcb-970a-3f641b902c1e" alt="screen1"> <img height="450" width="230" src="https://github.com/NavratanPatel/DharmaVibes/assets/90257430/f83237e1-af62-4ea8-b414-ae1d3f88dc51" alt="screen2">
+    <br>
+<img height="450" width="230" src="https://github.com/NavratanPatel/DharmaVibes/assets/90257430/dfe4e4f9-8f0e-42e3-b4dc-46b88106a0e5" alt="screen3"> <img height="450" width="230" src="https://github.com/NavratanPatel/DharmaVibes/assets/90257430/e4d55337-4781-4f84-9cb1-4a0e83ec359b" alt="screen4">
 </tr>
 </table>
     
